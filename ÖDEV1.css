@@ -1,0 +1,25 @@
+
+body{
+    background-color: wheat;
+    
+}
+h1{
+    
+    color: brown; 
+    font-size: 64px;
+}
+h2{
+    font-size: 35px;
+    color: brown;
+}
+a{
+    color: rgb(30, 9, 104);
+    font-size: 40px;
+}
+p{
+    font-size: 35px;
+}
+li{
+    color: slateblue;
+    font-size: 30px;
+}
